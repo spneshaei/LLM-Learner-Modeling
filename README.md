@@ -41,4 +41,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-We would like to thank the Machine Learning course (CS-433) staff at EPFL for providing the opportunity to work on this project, which idea was inspired by the course's "ML4Science project 2".
+We would like to thank the Machine Learning course (CS-433) staff at EPFL for providing the opportunity to work on this project. This project developed from an idea proposed by the authors in an ML4Science project done as a part of the course.
