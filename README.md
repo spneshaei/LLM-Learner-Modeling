@@ -38,3 +38,7 @@ If you find our code, approach, or methodology useful in your research, please c
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgments
+
+We would like to thank the Machine Learning course (CS-433) staff at EPFL for providing the opportunity to work on this project, which idea was inspired by the course's "ML4Science project 2".
