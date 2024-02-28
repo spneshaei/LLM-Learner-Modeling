@@ -1,0 +1,1 @@
+This directory will contain all the generated files from the inference process.
