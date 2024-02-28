@@ -4,12 +4,16 @@ This repository is an implementation of our preprint "Towards Modeling Learner P
 
 ## Authors
 
-- Seyed Parsa Neshaei
-- Richard Davis
-- Adam Hazimeh
-- Bojan Lazarevski
-- Pierre Dillenbourg
-- Tanja Käser
+- Seyed Parsa Neshaei `*` ([Website](https://spneshaei.com), [Google Scholar](https://scholar.google.com/citations?user=hZFxf-kAAAAJ&hl=en), [GitHub Profile](https://github.com/spneshaei))
+- Richard Davis `*` ([Website](https://people.epfl.ch/richard.davis/?lang=en), [Google Scholar](https://scholar.google.com/citations?user=kpZvywIAAAAJ&hl=en))
+- Adam Hazimeh ([Website](https://people.epfl.ch/adam.hazimeh?lang=en), [GitHub Profile](https://github.com/adamhazimeh))
+- Bojan Lazarevski ([Website](https://people.epfl.ch/bojan.lazarevski?lang=en), [GitHub Profile](https://github.com/bojanlazarevski1))
+- Pierre Dillenbourg ([Website](https://people.epfl.ch/pierre.dillenbourg/?lang=en), [Google Scholar](https://scholar.google.com/citations?user=FdvKJcIAAAAJ&hl=en))
+- Tanja Käser ([Website](https://people.epfl.ch/tanja.kaeser/?lang=en), [Google Scholar](https://scholar.google.com/citations?user=Uexe7SkAAAAJ&hl=en))
+
+`*`: Equal contribution
+
+*All authors are affiliated with EPFL, Lausanne, Switzerland.*
 
 ## Abstract
 
